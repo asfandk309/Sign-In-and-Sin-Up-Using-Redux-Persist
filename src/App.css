@@ -1,0 +1,17 @@
+.App{
+  margin-top: 0px;
+  padding-top: 10px;
+  min-height: 100vh;  
+}
+
+body {
+  font-size: 16px;
+}
+
+#Dark {
+  background: #141D2F;
+}
+
+#Light {
+  background: #F6F8FF;
+}

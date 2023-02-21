@@ -1,0 +1,15 @@
+  .container-header {
+    max-width: 800px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .item-2 {
+    display: flex;
+  }
+
+  #Dark .container-header {
+    color: white;
+  }
